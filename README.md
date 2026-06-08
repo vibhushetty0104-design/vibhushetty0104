@@ -60,6 +60,7 @@ All of them push my technical and creative limits.
 ---
 
 ## 🤝 Open To
+- Internships
 - Freelance / contract work
 - ML automation & data systems
 - Web & SaaS development
